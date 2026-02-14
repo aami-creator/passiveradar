@@ -16,7 +16,7 @@
 [mention your project hosted link here]
 
 ### Project Description
-[Detect moving humam by pricinples of passive radar(no active transmission of EM waves , using only existing signals like wifi or FM ) using Wifi . Output graph shows normalized magnitude vs Doppler frequency . peak in normalized magnitude is detected at 16hz as expected from calculations .]
+[Detect moving humam by pricinples of passive radar(no active transmission of EM waves , using only existing signals like wifi or FM ) using Wifi . Output graph shows normalized magnitude vs Doppler frequency . Peak in normalized magnitude is detected at 16hz as expected from calculations .]
 
 ### The Problem statement
 [Active radar transmission requires dedicated and costly transmitters -adds to EM pollution-Not suitabe for covert operations as in military-requires license for transmission .]
